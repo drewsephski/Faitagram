@@ -13,9 +13,4 @@
 * python faitagram -s twitter -u USERNAME -w wlist -d 3
 
 # How it Works
-This script uses selenium web driver, and Xvfb and py virtual display to make the web driver invisible so you can keep doing work, this script also uses STEM as the proxy.
-
-# Contribution
-* Hassan Tahir
-* ex0dus-0x
-* Krish Depani
+This script uses selenium web driver, and Xvfb and py virtual display to make the web driver invisible so you can keep doing work
